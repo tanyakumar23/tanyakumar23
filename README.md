@@ -44,7 +44,7 @@
 <br/>
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=tanyakumar23&show_icons=true&locale=en&layout=compact" alt="tanyakumar23" /></p>
+<p><img align="left" width=40% src="https://github-readme-stats.vercel.app/api/top-langs?username=tanyakumar23&show_icons=true&locale=en&layout=compact" alt="tanyakumar23" /></p>
 
 <!---<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=tanyakumar23&show_icons=true&theme=radical" /> </p>-->
 
@@ -54,7 +54,6 @@
 <!-- [![Tanya's github activity graph](https://activity-graph.herokuapp.com/graph?username=tanyakumar23&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph) -->
 
 <br/>
-<h3> Quote for today </h3> 
 
 <!--<details open>
   
