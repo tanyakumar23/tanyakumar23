@@ -1,6 +1,6 @@
 <h1 align="center">👋 Hi I'm Tanya </h1>
 
-<h3 align="center">Welcome to my profile</h3>
+
 
 
 <div align="center">
@@ -58,9 +58,9 @@
 
 <details open>
   
-<summary>See quote</summary>
+<!-- <summary>See quote</summary>
     <a href="https://github.com/piyushsuthar/github-readme-quotes">
         <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="quotes card">
     </a>
-</details>
+</details> -->
 <img alt="github contribution snake animation" src="https://github.com/Carol42/Carol42/blob/output/github-contribution-grid-snake.svg">
