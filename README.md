@@ -46,7 +46,7 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tanyakumar23&layout=compact)](https://github.com/anuraghazra/github-readme-stats" /> </p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=tanyakumar23&show_icons=true&theme=radical" /> </p>
+<!---<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=tanyakumar23&show_icons=true&theme=radical" /> </p>-->
 
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tanyakumar23&" alt="tanyakumar23" /></p>
@@ -56,9 +56,9 @@
 <br/>
 <h3> Quote for today </h3> 
 
-<details open>
+<!--<details open>
   
-<!-- <summary>See quote</summary>
+ <summary>See quote</summary>
     <a href="https://github.com/piyushsuthar/github-readme-quotes">
         <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="quotes card">
     </a>
