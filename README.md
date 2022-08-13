@@ -8,11 +8,11 @@
 </div>
 <!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tanyakumar23" alt="tanyakumar23" /></a> </p> -->
 
-- 🔭 I'm currently working on **Emphysema detection using UNET Architecture**
+<!-- 🔭 I'm currently working on **Emphysema detection using UNET Architecture**
 - 🌱 I’m currently **learning everything 🤣**
 - 👯 I’m looking forward to **building more projects with pytorch**
 - 🥅 2022 Goals: **Learn more about machine learning**
-- ⚡ Fun fact: **I love to read** 
+- ⚡ Fun fact: **I love to read** -->
 <!-- - 😻 Check out the NFT collection I created: [CodeCats](https://opensea.io/collection/codecats?search[sortAscending]=true&search[sortBy]=PRICE&search[toggles][0]=BUY_NOW) -->
 
 ### Connect with me:
@@ -44,7 +44,7 @@
 <br/>
 
 
-<p><img align="left" width=40% src="https://github-readme-stats.vercel.app/api/top-langs?username=tanyakumar23&show_icons=true&locale=en&layout=compact" alt="tanyakumar23" /></p>
+<!---<p><img align="left" width=40% src="https://github-readme-stats.vercel.app/api/top-langs?username=tanyakumar23&show_icons=true&locale=en&layout=compact" alt="tanyakumar23" /></p>-->
 
 <!---<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=tanyakumar23&show_icons=true&theme=radical" /> </p>-->
 
