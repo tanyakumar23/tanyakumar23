@@ -4,7 +4,7 @@
 
 
 <div align="center">
-    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Montessarat+Slab&color=%367588&size=30&center=true&vCenter=true&width=450&lines=Computer+Engineering+Student;I+like+App+Development+%3C3;I+like+Machine+Learning+%3C3;" alt="Computer Engineering Student,I like App Development,I like Machine Learning"></a>
+  <!--  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Montessarat+Slab&color=%367588&size=30&center=true&vCenter=true&width=450&lines=Computer+Engineering+Student;I+like+App+Development+%3C3;I+like+Machine+Learning+%3C3;" alt="Computer Engineering Student,I like App Development,I like Machine Learning"></a>-->
 </div>
 <!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tanyakumar23" alt="tanyakumar23" /></a> </p> -->
 
